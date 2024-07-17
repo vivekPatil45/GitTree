@@ -21,8 +21,8 @@ GitHub GitTree Visualizer is a web application that allows you to create and vis
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/vivekPatil45/GitTree.git
+   cd GitTree
 2. **Install dependencies using npm:**
    ```bash
     npm install
